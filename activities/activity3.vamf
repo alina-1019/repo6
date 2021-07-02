@@ -1,5 +1,6 @@
 {
    "name":"Activity 3",
+   "priority": 3,
    "shortDescription": "3",
    "icon":"customActivityManual.svg",
    "descriptionMarkdown":"Activity1.md",
