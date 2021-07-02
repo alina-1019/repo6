@@ -1,6 +1,7 @@
 {
-   "name":"Activity t1",
-   "shortDescription": "NA",
+   "name":"Activity 1",
+   "priority": 3,
+   "shortDescription": "3",
    "icon":"customActivityManual.svg",
    "descriptionMarkdown":"Activity1.md",
    "topology": [
